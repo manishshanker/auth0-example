@@ -10,6 +10,8 @@ This sample demonstrates the following use cases:
 - [Protecting routes](https://github.com/auth0-samples/auth0-react-samples/blob/master/Sample-01/src/views/Profile.js#L33)
 - [Calling APIs](https://github.com/auth0-samples/auth0-react-samples/blob/master/Sample-01/src/views/ExternalApi.js)
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/manishshanker/auth0-example)
+
 ## Project setup
 
 Use `yarn` to install the project dependencies:
